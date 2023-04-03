@@ -1,6 +1,6 @@
 
 def calc():
-    a = 5
+    a = 6
     b = 4
     s = a+b
     print(s)

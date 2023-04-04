@@ -1,6 +1,8 @@
 #Calculator
+
+
 def calc():
-    a = 6
+    a = 99
     b = 4
     s = a+b
     print(s)
